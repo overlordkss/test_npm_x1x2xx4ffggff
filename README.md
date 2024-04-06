@@ -1,1 +1,6 @@
-# test_npm_x1x2xx4ffggff
+# test_npm_x1x2xx4ffggff# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x9515077FA7422D89Be1316aEE2c7fb20ee6327a7'
+quorum: 1
